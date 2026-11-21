@@ -2,5 +2,5 @@ allowBuilds:
   '@parcel/watcher': false
   '@swc/core': false
   esbuild: true
-  puppeteer: false
+  puppeteer: true
   sharp: true
