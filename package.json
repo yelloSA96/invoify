@@ -25,6 +25,7 @@
     "@radix-ui/react-alert-dialog": "^1.1.15",
     "@radix-ui/react-aspect-ratio": "^1.1.7",
     "@radix-ui/react-dialog": "^1.1.15",
+    "@radix-ui/react-direction": "^1.2.0",
     "@radix-ui/react-label": "^2.1.7",
     "@radix-ui/react-popover": "^1.1.15",
     "@radix-ui/react-scroll-area": "^1.2.10",
@@ -66,6 +67,7 @@
     "zod": "^3.22.2"
   },
   "devDependencies": {
+    "@eslint/eslintrc": "^3.3.7",
     "@fontsource/alex-brush": "5.1.0",
     "@fontsource/dancing-script": "5.1.0",
     "@fontsource/great-vibes": "5.1.0",
